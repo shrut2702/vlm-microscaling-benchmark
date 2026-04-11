@@ -1,5 +1,27 @@
 ## Model Benchmark Results
 
+
+
+
+
+
+
+
+
+
+
+
+Rerun phi-4-mulitmodal-instruct for bf16 since those results are gone
+
+
+
+
+
+
+
+
+
+
 | Model         | Precision | VQA  | TextVQA |
 |---------------|----------|------|---------|
 | SmolVLM2-2.2b | BF16     | 62.77 | 64.5    |
